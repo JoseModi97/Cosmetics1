@@ -1,0 +1,93 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Nov 2026 11:27:24 at http://localhost/wordpress +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wordpress -O1 "C:\My Web Sites\Cosmetics1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:40:40	Warning: 	Moved Permanently for localhost/wordpress/how-to-read-the-ingredients-of-cosmetics-a-simple-guide-for-beginners/
+11:40:40	Warning: 	File has moved from localhost/wordpress/how-to-read-the-ingredients-of-cosmetics-a-simple-guide-for-beginners/ to http://localhost/wordpress/2025/06/30/how-to-read-the-ingredients-of-cosmetics-a-simple-guide-for-beginners/
+11:40:40	Warning: 	Moved Permanently for localhost/wordpress/5-natural-ingredients-that-your-skin-will-love-in-summer/
+11:40:40	Warning: 	File has moved from localhost/wordpress/5-natural-ingredients-that-your-skin-will-love-in-summer/ to http://localhost/wordpress/2025/06/30/5-natural-ingredients-that-your-skin-will-love-in-summer/
+11:40:40	Error: 	"Not Found" (404) at link localhost/wordpress/?page_id=8 (from localhost/wordpress/)
+11:40:48	Warning: 	Found for localhost/wordpress/checkout/
+11:40:48	Warning: 	File has moved from localhost/wordpress/checkout/ to http://localhost/wordpress/cart-2/
+11:40:58	Warning: 	Moved Permanently for localhost/wordpress/?p=5
+11:40:58	Warning: 	File has moved from localhost/wordpress/?p=5 to http://localhost/wordpress/cart-2/
+11:40:58	Error: 	"Bad Request" (400) at link localhost/wordpress/wp-admin/admin-ajax.php?action=rest-nonce (from localhost/wordpress/cart-2/)
+11:40:58	Warning: 	Moved Permanently for localhost/wordpress/?p=7
+11:40:58	Warning: 	File has moved from localhost/wordpress/?p=7 to http://localhost/wordpress/my-account/
+11:41:16	Warning: 	Moved Permanently for localhost/wordpress/?p=155
+11:41:16	Warning: 	File has moved from localhost/wordpress/?p=155 to http://localhost/wordpress/product/earth-serenity/
+11:41:55	Warning: 	Moved Permanently for localhost/wordpress/?p=179
+11:41:55	Warning: 	File has moved from localhost/wordpress/?p=179 to http://localhost/wordpress/product/forest-rosa/
+11:42:11	Warning: 	Moved Permanently for localhost/wordpress/?p=171
+11:42:11	Warning: 	File has moved from localhost/wordpress/?p=171 to http://localhost/wordpress/product/luminous-mist/
+11:42:23	Warning: 	Moved Permanently for localhost/wordpress/?p=133
+11:42:23	Warning: 	File has moved from localhost/wordpress/?p=133 to http://localhost/wordpress/product/floral-wrapper/
+11:42:35	Warning: 	Moved Permanently for localhost/wordpress/?p=205
+11:42:35	Warning: 	File has moved from localhost/wordpress/?p=205 to http://localhost/wordpress/product/fluffy-cloud/
+11:42:40	Warning: 	Moved Permanently for localhost/wordpress/?p=142
+11:42:40	Warning: 	File has moved from localhost/wordpress/?p=142 to http://localhost/wordpress/product/forest-after-the-rain/
+11:42:44	Warning: 	Moved Permanently for localhost/wordpress/?p=225
+11:42:44	Warning: 	File has moved from localhost/wordpress/?p=225 to http://localhost/wordpress/product/forest-strength/
+11:42:52	Warning: 	Moved Permanently for localhost/wordpress/?p=59
+11:42:52	Warning: 	File has moved from localhost/wordpress/?p=59 to http://localhost/wordpress/product/sunny-touch/
+11:42:55	Warning: 	Moved Permanently for localhost/wordpress/?p=187
+11:42:55	Warning: 	File has moved from localhost/wordpress/?p=187 to http://localhost/wordpress/product/joyful-bath/
+11:43:02	Warning: 	Moved Permanently for localhost/wordpress/?p=67
+11:43:02	Warning: 	File has moved from localhost/wordpress/?p=67 to http://localhost/wordpress/about/
+11:43:41	Warning: 	Moved Permanently for localhost/wordpress/?p=71
+11:43:41	Warning: 	File has moved from localhost/wordpress/?p=71 to http://localhost/wordpress/faq/
+11:43:42	Warning: 	Moved Permanently for localhost/wordpress/?p=73
+11:43:42	Warning: 	File has moved from localhost/wordpress/?p=73 to http://localhost/wordpress/contact/
+11:43:42	Warning: 	Moved Permanently for localhost/wordpress/?p=210
+11:43:42	Warning: 	File has moved from localhost/wordpress/?p=210 to http://localhost/wordpress/product/spicy-energy/
+11:43:53	Warning: 	Moved Permanently for localhost/wordpress/?p=220
+11:43:53	Warning: 	File has moved from localhost/wordpress/?p=220 to http://localhost/wordpress/product/natures-radiance/
+11:43:59	Warning: 	Moved Permanently for localhost/wordpress/?p=215
+11:43:59	Warning: 	File has moved from localhost/wordpress/?p=215 to http://localhost/wordpress/product/herbal-calm/
+11:44:03	Warning: 	Moved Permanently for localhost/wordpress/?p=147
+11:44:03	Warning: 	File has moved from localhost/wordpress/?p=147 to http://localhost/wordpress/product/honey-almond/
+11:44:07	Warning: 	Moved Permanently for localhost/wordpress/?p=96
+11:44:07	Warning: 	File has moved from localhost/wordpress/?p=96 to http://localhost/wordpress/wishlist/
+11:44:07	Warning: 	Found for localhost/
+11:44:07	Warning: 	File has moved from localhost/ to http://localhost/dashboard/
+11:44:07	Warning: 	Moved Permanently for localhost/wordpress/?p=163
+11:44:07	Warning: 	File has moved from localhost/wordpress/?p=163 to http://localhost/wordpress/product/silent-night/
+11:44:19	Warning: 	Moved Permanently for localhost/wordpress/?p=200
+11:44:19	Warning: 	File has moved from localhost/wordpress/?p=200 to http://localhost/wordpress/product/hugging-cream/
+11:44:28	Warning: 	Moved Permanently for localhost/wordpress/?p=195
+11:44:28	Warning: 	File has moved from localhost/wordpress/?p=195 to http://localhost/wordpress/product/fluffy-nose/
+11:44:35	Warning: 	Moved Permanently for localhost/wordpress/?p=267
+11:44:35	Warning: 	File has moved from localhost/wordpress/?p=267 to http://localhost/wordpress/2025/06/30/how-to-read-the-ingredients-of-cosmetics-a-simple-guide-for-beginners/
+11:44:35	Warning: 	Moved Permanently for localhost/wordpress/?p=264
+11:44:35	Warning: 	File has moved from localhost/wordpress/?p=264 to http://localhost/wordpress/2025/06/30/5-natural-ingredients-that-your-skin-will-love-in-summer/
+11:44:35	Warning: 	Moved Permanently for localhost/wordpress/?p=261
+11:44:35	Warning: 	File has moved from localhost/wordpress/?p=261 to http://localhost/wordpress/2025/06/30/why-choose-cosmetics-with-ecocert-or-vegan-certificates/
+11:44:35	Warning: 	Moved Permanently for localhost/wordpress/?p=258
+11:44:35	Warning: 	File has moved from localhost/wordpress/?p=258 to http://localhost/wordpress/2025/06/30/skin-care-step-by-step-morning-and-evening-routine-from-nature/
+11:44:36	Warning: 	Moved Permanently for localhost/wordpress/?p=255
+11:44:36	Warning: 	File has moved from localhost/wordpress/?p=255 to http://localhost/wordpress/2025/06/30/natural-baby-care-what-to-look-for/
+11:44:36	Warning: 	Moved Permanently for localhost/wordpress/?p=252
+11:44:36	Warning: 	File has moved from localhost/wordpress/?p=252 to http://localhost/wordpress/2025/06/30/plastic-free-cosmetics-is-it-possible-eco-packaging-guide/
+11:44:36	Warning: 	Moved Permanently for localhost/wordpress/?p=249
+11:44:36	Warning: 	File has moved from localhost/wordpress/?p=249 to http://localhost/wordpress/2025/06/30/home-spa-how-to-create-an-evening-of-relaxation-with-natural-cosmetics/
+11:44:36	Warning: 	Moved Permanently for localhost/wordpress/?p=243
+11:44:36	Warning: 	File has moved from localhost/wordpress/?p=243 to http://localhost/wordpress/2025/06/30/the-most-common-myths-about-natural-cosmetics-we-debunk-6-of-them/
+11:44:56	Warning: 	Link localhost/dashboard/phpinfo.php not scanned (follow robots meta tag)
+11:45:02	Warning: 	Link localhost/phpmyadmin/ not scanned (follow robots meta tag)
+11:45:02	Error: 	"Not Found" (404) at link localhost/privacy_policy.html (from localhost/dashboard/)
+11:48:10	Error: 	"Not Found" (404) at link localhost/phpMyAdmin (from localhost/dashboard/docs/backup-restore-mysql.html)
+11:48:10	Error: 	"Not Found" (404) at link localhost/example.php (from localhost/dashboard/docs/transfer-files-ftp.html)
+11:48:10	Error: 	"Not Found" (404) at link localhost/Slim (from localhost/dashboard/docs/deploy-git-app.html)
+11:48:10	Error: 	"Not Found" (404) at link localhost/sendmail.php (from localhost/dashboard/docs/send-mail.html)
+11:48:10	Error: 	"Not Found" (404) at link localhost/example/phpmailer.php (from localhost/dashboard/docs/send-mail.html)
+11:48:10	Error: 	"Not Found" (404) at link localhost/sqlite.php (from localhost/dashboard/docs/use-sqlite.html)
+11:48:10	Error: 	"Not Found" (404) at link localhost/xampp/phpinfo.php (from localhost/dashboard/docs/activate-use-xdebug.html)
+11:48:10	Error: 	"Not Found" (404) at link localhost/myapp/ (from localhost/dashboard/docs/create-framework-project-zf1.html)
+11:48:10	Error: 	"Not Found" (404) at link localhost/myapp (from localhost/dashboard/docs/create-framework-project-zf1.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 51 seconds : 1273 links scanned, 1226 files written (50501239 bytes overall) [50791712 bytes received at 40600 bytes/sec], 454947 bytes transferred using HTTP compression in 4 files, ratio 13%, 5.0 requests per connection
+(12 errors, 70 warnings, 0 messages)

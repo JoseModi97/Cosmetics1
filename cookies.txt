@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/phpmyadmin/	FALSE	1999999999	phpMyAdmin	fcfa6813a64fcaa2ce0d480670ab01f5
+localhost	TRUE	/phpmyadmin/	FALSE	1999999999	pma_lang	en
+localhost	TRUE	/	FALSE	1999999999	SameSite	Strict
+
